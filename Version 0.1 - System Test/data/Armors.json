@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"atypeId":1,"description":"Doubles Magic Defense. Protects against all\nstatus effects aside from Knock Out.","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0},{"code":14,"dataId":4,"value":1},{"code":14,"dataId":5,"value":1},{"code":14,"dataId":6,"value":1},{"code":14,"dataId":7,"value":1},{"code":14,"dataId":8,"value":1},{"code":14,"dataId":9,"value":1},{"code":14,"dataId":10,"value":1}],"iconIndex":207,"name":"Aldakin Tribute","note":"","params":[0,0,0,0,0,9,0,0],"price":40000},
+{"id":2,"atypeId":1,"description":"You're being watched.","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0},{"code":22,"dataId":7,"value":0.05}],"iconIndex":145,"name":"Ring","note":"","params":[0,0,0,0,0,0,0,0],"price":4000},
+{"id":3,"atypeId":5,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0},{"code":22,"dataId":6,"value":0.2}],"iconIndex":81,"name":"Shield Placeholder","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":4,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0}
+]

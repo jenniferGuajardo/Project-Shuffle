@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"animationId":6,"description":"Main character only.\n50/50 chance of deflecting all attacks.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0},{"code":22,"dataId":6,"value":0.7},{"code":22,"dataId":5,"value":0.7},{"code":21,"dataId":2,"value":1.5}],"iconIndex":97,"name":"Flamberg","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":2},
+{"id":2,"animationId":0,"description":"Doubles Attack Stat.\nLowers enemy defense when attacking.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0},{"code":21,"dataId":2,"value":2},{"code":12,"dataId":3,"value":1}],"iconIndex":224,"name":"Cleaver","note":"","params":[0,0,0,0,0,0,0,0],"price":4000,"wtypeId":4},
+{"id":3,"animationId":3,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0},{"code":41,"dataId":1,"value":1}],"iconIndex":33,"name":"Magic Add Placeholder","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":2},
+{"id":4,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0}
+]
