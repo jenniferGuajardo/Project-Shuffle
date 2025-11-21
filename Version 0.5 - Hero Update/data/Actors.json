@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"battlerName":"Actor1_8","characterIndex":3,"characterName":"tempMockRecolor","classId":1,"equips":[0,1,2,3,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Warrior 1","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Actor1_3","characterIndex":0,"characterName":"placeBuddies1","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Warrior 2","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Actor1_1","characterIndex":1,"characterName":"tempMockRecolor","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Gardener 1","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"placeBuddies2","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Gardener 2","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":1,"characterName":"beta tileset C","classId":3,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Frog","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":3,"characterName":"placeBuddies2","classId":4,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Spellsword 1","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":4,"characterName":"placeBuddies2","classId":4,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Spellsword 2","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":5,"characterName":"tempMockRecolor","classId":5,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Blight 1","nickname":"","note":"","profile":""},
+{"id":9,"battlerName":"","characterIndex":4,"characterName":"!fittingChest","classId":5,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Blight 2","nickname":"","note":"","profile":""},
+{"id":10,"battlerName":"","characterIndex":0,"characterName":"!doorShape","classId":5,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Blight 3","nickname":"","note":"","profile":""}
+]
